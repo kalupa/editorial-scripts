@@ -1,0 +1,15 @@
+{
+    "actions": [
+        {
+            "class": "WorkflowActionReplaceSelectedText",
+            "parameters": {
+                "replacement": {
+                    "selectedRange": "{2, 8}",
+                    "text": "[^footnote]",
+                    "tokenRanges": {},
+                    "type": "advancedText"
+                }
+            }
+        }
+    ]
+}

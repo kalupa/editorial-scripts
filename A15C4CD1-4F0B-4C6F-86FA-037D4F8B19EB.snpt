@@ -1,0 +1,18 @@
+{
+    "actions": [
+        {
+            "class": "WorkflowActionReplaceSelectedText",
+            "parameters": {
+                "replacement": {
+                    "text": "?-?-?",
+                    "tokenRanges": {
+                        "{0, 1}": "%date:yyyy",
+                        "{2, 1}": "%date:MM",
+                        "{4, 1}": "%date:dd"
+                    },
+                    "type": "advancedText"
+                }
+            }
+        }
+    ]
+}

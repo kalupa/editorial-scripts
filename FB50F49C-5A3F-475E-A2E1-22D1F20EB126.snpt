@@ -1,0 +1,14 @@
+{
+    "actions": [
+        {
+            "class": "WorkflowActionReplaceSelectedText",
+            "parameters": {
+                "replacement": {
+                    "text": "With best regards,",
+                    "tokenRanges": {},
+                    "type": "advancedText"
+                }
+            }
+        }
+    ]
+}

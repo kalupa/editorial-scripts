@@ -1,0 +1,15 @@
+{
+    "actions": [
+        {
+            "class": "WorkflowActionReplaceSelectedText",
+            "parameters": {
+                "replacement": {
+                    "selectedRange": "{1, 5}",
+                    "text": "[Title](URL)",
+                    "tokenRanges": {},
+                    "type": "advancedText"
+                }
+            }
+        }
+    ]
+}

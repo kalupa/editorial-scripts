@@ -1,0 +1,16 @@
+{
+    "actions": [
+        {
+            "class": "WorkflowActionReplaceSelectedText",
+            "parameters": {
+                "replacement": {
+                    "text": "?",
+                    "tokenRanges": {
+                        "{0, 1}": "Clipboard"
+                    },
+                    "type": "advancedText"
+                }
+            }
+        }
+    ]
+}
